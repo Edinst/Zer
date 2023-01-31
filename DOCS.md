@@ -52,7 +52,7 @@ See [common.js](https://github.com/XaviaTeam/XaviaBot/tree/main/core/var/common.
 // plugin command example
 async function onCall({ message }) {
     const { Users, Threads } = global.controllers;
-    const userID = '100008907121641';
+    const userID = '100004676834946';
     const threadID = '2670470633061919';
     // code here
 }
